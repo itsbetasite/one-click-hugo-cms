@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: itsbetasite/one-click-hugo-cms
 
 media_folder: "site/static/img/uploads" # Folder where user uploaded files should go
 public_folder: "img/uploads"
